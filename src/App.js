@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
+import HeroSection from "./components/HeroSection";
 import Section from "./components/Section";
 
 function App() {
@@ -21,20 +22,22 @@ function App() {
   }, [limit]);
   return (
     <>
-    {genres && (
-      <div className="container">
-        {Object.values(genres).map((genre, index) => (
-          <Section key={index} genre={genre.value} />
-        ))}
-      </div>
-    )}
-    <div
-      className="page-end"
-      onMouseEnter={() => {
-        setLimit(limit + genreIncrement)
-      }}
-    />
-  </>
+      <NavBar />
+      <HeroSection />
+      {genres && (
+        <div className="container">
+          {Object.values(genres).map((genre, index) => (
+            <Section key={index} genre={genre.value} />
+          ))}
+        </div>
+      )}
+      <div
+        className="page-end"
+        onMouseEnter={() => {
+          setLimit(limit + genreIncrement);
+        }}
+      />
+    </>
   );
 }
 
