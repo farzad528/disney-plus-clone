@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import Card from "./Card";
 
-function Section({ genre }) {
+const Section = ({ genre }) => {
   const [movies, setMovies] = useState(null);
   const [pageState, setPageState] = useState(null);
 
@@ -18,6 +18,7 @@ function Section({ genre }) {
   useEffect(() => {
     fetchData();
   }, []);
+
   return (
     <>
       <h2 id={genre}>{genre}</h2>
@@ -32,11 +33,13 @@ function Section({ genre }) {
               setPageState(pageState);
               fetchData();
             }}
-          ></div>
+          >
+            <i className="fas fa-angle-right"></i>
+          </div>
         </div>
       )}
     </>
   );
-}
+};
 
 export default Section;
