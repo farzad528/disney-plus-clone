@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 import HeroSection from "./components/HeroSection";
+import NavBar from "./components/NavBar";
 import Section from "./components/Section";
 
 function App() {
