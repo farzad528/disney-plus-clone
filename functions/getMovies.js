@@ -4,14 +4,19 @@ exports.handler = async function () {
   const url = process.env.ASTRA_GRAPHQL_ENDPOINT;
   const token = process.env.ASTRA_DB_APPLICATION_TOKEN;
   const query = `
-  query getAllGenres {
-    reference_list(
-        value: { label: "genre"}
-    ) {
-      values {
-        value
+  query {
+    movies_by_genre(
+      value: { genre:"Sci-Fi"},
+      orderBy: [year_DESC]) {
+        values {
+          year,
+          title,
+          duration,
+          synopsis,
+          thumbnail
+        }
       }
-    }
+    
   }
   `;
 
