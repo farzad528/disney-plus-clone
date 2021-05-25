@@ -21,15 +21,20 @@ function App() {
   }, [limit]);
   return (
     <>
-      {genres &&
-        Object.values(genres).map((genre) => <Section genre={genre.value} />)}
-      <div
-        className="page-end"
-        onMouseEnter={() => {
-          setLimit(limit + genreIncrement);
-        }}
-      />
-    </>
+    {genres && (
+      <div className="container">
+        {Object.values(genres).map((genre, index) => (
+          <Section key={index} genre={genre.value} />
+        ))}
+      </div>
+    )}
+    <div
+      className="page-end"
+      onMouseEnter={() => {
+        setLimit(limit + genreIncrement)
+      }}
+    />
+  </>
   );
 }
 
