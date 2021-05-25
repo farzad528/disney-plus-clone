@@ -6,7 +6,8 @@ exports.handler = async function () {
   const query = `
   query getAllGenres {
     reference_list(
-        value: { label: "genre"}
+        value: { label: "genre"},
+        options: {limit: 4 }
     ) {
       values {
         value
