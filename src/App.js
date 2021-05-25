@@ -13,11 +13,8 @@ function App() {
       body: limit,
     });
     const responseBody = await response.json();
-    console.log(responseBody);
     setGenres(responseBody.data.reference_list.values);
   };
-
-  console.log(limit);
 
   useEffect(() => {
     fetchData();
