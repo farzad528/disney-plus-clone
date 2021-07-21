@@ -70,7 +70,7 @@ const NavMenu = styled.div`
     span {
       font-size: 0.75rem;
       text-transform: uppercase;
-      letter-spacing: 1.42px;
+      letter-spacing: 0.18rem;
       position: relative;
 
       &:after {
