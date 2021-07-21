@@ -1,10 +1,12 @@
 import styled from "styled-components";
 import Carousel from "./Carousel";
+import Viewers from "./Viewers";
 
 const Home = () => {
   return (
     <Container>
       <Carousel />
+      <Viewers />
     </Container>
   );
 };
