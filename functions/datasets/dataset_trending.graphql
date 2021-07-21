@@ -1,0 +1,128 @@
+mutation movies_trending {
+  simpsons_1: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 1989
+      title: "The Simpsons"
+      synopsis: "Working-class father Homer Simpson and his dysfunctional family deal with comical situations and the ups-and-downs of life in the town of Springfield."
+      duration: 190
+      thumbnail: "https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart_s33.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  simpsons_2: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 1989
+      title: "The Simpsons"
+      synopsis: "Working-class father Homer Simpson and his dysfunctional family deal with comical situations and the ups-and-downs of life in the town of Springfield."
+      duration: 190
+      thumbnail: "https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart_s33.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  simpsons_3: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 1989
+      title: "The Simpsons"
+      synopsis: "Working-class father Homer Simpson and his dysfunctional family deal with comical situations and the ups-and-downs of life in the town of Springfield."
+      duration: 190
+      thumbnail: "https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart_s33.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  simpsons_4: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 1989
+      title: "The Simpsons"
+      synopsis: "Working-class father Homer Simpson and his dysfunctional family deal with comical situations and the ups-and-downs of life in the town of Springfield."
+      duration: 190
+      thumbnail: "https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/keyart_s33.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  moana_1: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 2017
+      title: "Moana"
+      synopsis: "Moana, daughter of chief Tui, embarks on a journey to return the heart of goddess Te Fitti from Maui, a demigod, after the plants and the fish on her island start dying due to a blight."
+      duration: 190
+      thumbnail: "https://media.wired.co.uk/photos/606db71edbc4c121710a4e22/16:9/w_2560%2Cc_limit/moana2.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  moana_2: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 2017
+      title: "Moana"
+      synopsis: "Moana, daughter of chief Tui, embarks on a journey to return the heart of goddess Te Fitti from Maui, a demigod, after the plants and the fish on her island start dying due to a blight."
+      duration: 190
+      thumbnail: "https://media.wired.co.uk/photos/606db71edbc4c121710a4e22/16:9/w_2560%2Cc_limit/moana2.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  moana_3: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 2017
+      title: "Moana"
+      synopsis: "Moana, daughter of chief Tui, embarks on a journey to return the heart of goddess Te Fitti from Maui, a demigod, after the plants and the fish on her island start dying due to a blight."
+      duration: 190
+      thumbnail: "https://media.wired.co.uk/photos/606db71edbc4c121710a4e22/16:9/w_2560%2Cc_limit/moana2.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  moana_4: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 2017
+      title: "Moana"
+      synopsis: "Moana, daughter of chief Tui, embarks on a journey to return the heart of goddess Te Fitti from Maui, a demigod, after the plants and the fish on her island start dying due to a blight."
+      duration: 190
+      thumbnail: "https://media.wired.co.uk/photos/606db71edbc4c121710a4e22/16:9/w_2560%2Cc_limit/moana2.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  moana_5: insertmovies_by_genre(
+    value: {
+      genre: "Trending"
+      year: 2017
+      title: "Moana"
+      synopsis: "Moana, daughter of chief Tui, embarks on a journey to return the heart of goddess Te Fitti from Maui, a demigod, after the plants and the fish on her island start dying due to a blight."
+      duration: 190
+      thumbnail: "https://media.wired.co.uk/photos/606db71edbc4c121710a4e22/16:9/w_2560%2Cc_limit/moana2.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

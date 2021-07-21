@@ -1,0 +1,142 @@
+mutation movies_musicals {
+  hsm_1: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "High School Musical"
+      synopsis: "High School Musical is an American media franchise centered on a series of musical romantic comedy-drama films created by Peter Barsocchini."
+      duration: 100
+      thumbnail: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/high-school-musical-movie-1519763840.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hsm_2: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "High School Musical"
+      synopsis: "High School Musical is an American media franchise centered on a series of musical romantic comedy-drama films created by Peter Barsocchini."
+      duration: 100
+      thumbnail: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/high-school-musical-movie-1519763840.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hsm_3: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "High School Musical"
+      synopsis: "High School Musical is an American media franchise centered on a series of musical romantic comedy-drama films created by Peter Barsocchini."
+      duration: 100
+      thumbnail: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/high-school-musical-movie-1519763840.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hsm_4: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "High School Musical"
+      synopsis: "High School Musical is an American media franchise centered on a series of musical romantic comedy-drama films created by Peter Barsocchini."
+      duration: 100
+      thumbnail: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/high-school-musical-movie-1519763840.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hsm_5: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "High School Musical"
+      synopsis: "High School Musical is an American media franchise centered on a series of musical romantic comedy-drama films created by Peter Barsocchini."
+      duration: 100
+      thumbnail: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/high-school-musical-movie-1519763840.jpg?crop=1xw:1xh;center,top&resize=980:*"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lizzie_1: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "Lizzie McGuire Movie"
+      synopsis: "While on a holiday in Rome, a teenager, Elizabeth, is mistaken to be a pop star named Isabella. "
+      duration: 131
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/sBDSE3h-aqoeYxpQ_5nXx5E_FJU=/0x0:1330x748/1200x800/filters:focal(565x161:777x373)/cdn.vox-cdn.com/uploads/chorus_image/image/65100744/Lizzie_McGuire_2.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lizzie_2: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "Lizzie McGuire Movie"
+      synopsis: "While on a holiday in Rome, a teenager, Elizabeth, is mistaken to be a pop star named Isabella. "
+      duration: 131
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/sBDSE3h-aqoeYxpQ_5nXx5E_FJU=/0x0:1330x748/1200x800/filters:focal(565x161:777x373)/cdn.vox-cdn.com/uploads/chorus_image/image/65100744/Lizzie_McGuire_2.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lizzie_3: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "Lizzie McGuire Movie"
+      synopsis: "While on a holiday in Rome, a teenager, Elizabeth, is mistaken to be a pop star named Isabella. "
+      duration: 131
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/sBDSE3h-aqoeYxpQ_5nXx5E_FJU=/0x0:1330x748/1200x800/filters:focal(565x161:777x373)/cdn.vox-cdn.com/uploads/chorus_image/image/65100744/Lizzie_McGuire_2.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lizzie_4: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "Lizzie McGuire Movie"
+      synopsis: "While on a holiday in Rome, a teenager, Elizabeth, is mistaken to be a pop star named Isabella. "
+      duration: 131
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/sBDSE3h-aqoeYxpQ_5nXx5E_FJU=/0x0:1330x748/1200x800/filters:focal(565x161:777x373)/cdn.vox-cdn.com/uploads/chorus_image/image/65100744/Lizzie_McGuire_2.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lizzie_5: insertmovies_by_genre(
+    value: {
+      genre: "Muscials"
+      year: 2006
+      title: "Lizzie McGuire Movie"
+      synopsis: "While on a holiday in Rome, a teenager, Elizabeth, is mistaken to be a pop star named Isabella. "
+      duration: 131
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/sBDSE3h-aqoeYxpQ_5nXx5E_FJU=/0x0:1330x748/1200x800/filters:focal(565x161:777x373)/cdn.vox-cdn.com/uploads/chorus_image/image/65100744/Lizzie_McGuire_2.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

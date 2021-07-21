@@ -1,0 +1,14 @@
+query {
+    movies_by_genre (
+        value: { genre: "Recommended"},
+        orderBy: [year_DESC] {
+            values: {
+                year,
+                title,
+                duration, 
+                synopsis,
+                thumbnail
+            }
+        }
+    )
+} 

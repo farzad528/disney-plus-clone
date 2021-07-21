@@ -1,0 +1,128 @@
+mutation movies_favorites {
+  phineas_1: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Phineas and Ferb"
+      synopsis: "Phineas and Ferb embark on various adventures during their summer vacation, while trying to keep their sister from interfering with their plans."
+      duration: 61
+      thumbnail: "https://ca-times.brightspotcdn.com/dims4/default/119b15b/2147483647/strip/true/crop/2048x1152+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F8c%2F347fc1142fbaca7337893c9bab4b%2Fla-et-st-phineas-and-ferb-last-summer-20150507-001"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  phineas_2: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Phineas and Ferb"
+      synopsis: "Phineas and Ferb embark on various adventures during their summer vacation, while trying to keep their sister from interfering with their plans."
+      duration: 61
+      thumbnail: "https://ca-times.brightspotcdn.com/dims4/default/119b15b/2147483647/strip/true/crop/2048x1152+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F8c%2F347fc1142fbaca7337893c9bab4b%2Fla-et-st-phineas-and-ferb-last-summer-20150507-001"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  phineas_3: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Phineas and Ferb"
+      synopsis: "Phineas and Ferb embark on various adventures during their summer vacation, while trying to keep their sister from interfering with their plans."
+      duration: 61
+      thumbnail: "https://ca-times.brightspotcdn.com/dims4/default/119b15b/2147483647/strip/true/crop/2048x1152+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F8c%2F347fc1142fbaca7337893c9bab4b%2Fla-et-st-phineas-and-ferb-last-summer-20150507-001"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  phineas_4: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Phineas and Ferb"
+      synopsis: "Phineas and Ferb embark on various adventures during their summer vacation, while trying to keep their sister from interfering with their plans."
+      duration: 61
+      thumbnail: "https://ca-times.brightspotcdn.com/dims4/default/119b15b/2147483647/strip/true/crop/2048x1152+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F8c%2F347fc1142fbaca7337893c9bab4b%2Fla-et-st-phineas-and-ferb-last-summer-20150507-001"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  phineas_5: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Phineas and Ferb"
+      synopsis: "Phineas and Ferb embark on various adventures during their summer vacation, while trying to keep their sister from interfering with their plans."
+      duration: 61
+      thumbnail: "https://ca-times.brightspotcdn.com/dims4/default/119b15b/2147483647/strip/true/crop/2048x1152+0+0/resize/1486x836!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F8c%2F347fc1142fbaca7337893c9bab4b%2Fla-et-st-phineas-and-ferb-last-summer-20150507-001"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  wizards_1: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Wizards of Waverly Place"
+      synopsis: "The Russo family own a restaurant and live in New York. However, the father is a wizard while the children are in training."
+      duration: 61
+      thumbnail: "https://insidethemagic-119e2.kxcdn.com/wp-content/uploads/2020/03/Disney-Cruise-Line-Discount-20-800x400.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  wizards_1: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Wizards of Waverly Place"
+      synopsis: "The Russo family own a restaurant and live in New York. However, the father is a wizard while the children are in training."
+      duration: 61
+      thumbnail: "https://insidethemagic-119e2.kxcdn.com/wp-content/uploads/2020/03/Disney-Cruise-Line-Discount-20-800x400.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  wizards_2: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Wizards of Waverly Place"
+      synopsis: "The Russo family own a restaurant and live in New York. However, the father is a wizard while the children are in training."
+      duration: 61
+      thumbnail: "https://insidethemagic-119e2.kxcdn.com/wp-content/uploads/2020/03/Disney-Cruise-Line-Discount-20-800x400.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  wizards_3: insertmovies_by_genre(
+    value: {
+      genre: "Disney Channel Favorites"
+      year: 2006
+      title: "Wizards of Waverly Place"
+      synopsis: "The Russo family own a restaurant and live in New York. However, the father is a wizard while the children are in training."
+      duration: 61
+      thumbnail: "https://insidethemagic-119e2.kxcdn.com/wp-content/uploads/2020/03/Disney-Cruise-Line-Discount-20-800x400.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

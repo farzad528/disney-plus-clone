@@ -1,0 +1,114 @@
+mutation movies_vault {
+  lion_1: insertmovies_by_genre(
+    value: {
+      genre: "Out of the Vault"
+      year: 2016
+      title: "The Lion King"
+      synopsis: "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne."
+      duration: 131
+      thumbnail: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1234,w_2200,x_0,y_26/v1562725833/shape/mentalfloss/57386-disney1.jpg?itok=5ZhAOixA"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lion_2: insertmovies_by_genre(
+    value: {
+      genre: "Out of the Vault"
+      year: 2016
+      title: "The Lion King"
+      synopsis: "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne."
+      duration: 131
+      thumbnail: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1234,w_2200,x_0,y_26/v1562725833/shape/mentalfloss/57386-disney1.jpg?itok=5ZhAOixA"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lion_3: insertmovies_by_genre(
+    value: {
+      genre: "Out of the Vault"
+      year: 2016
+      title: "The Lion King"
+      synopsis: "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne."
+      duration: 131
+      thumbnail: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1234,w_2200,x_0,y_26/v1562725833/shape/mentalfloss/57386-disney1.jpg?itok=5ZhAOixA"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lion_4: insertmovies_by_genre(
+    value: {
+      genre: "Out of the Vault"
+      year: 2016
+      title: "The Lion King"
+      synopsis: "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne."
+      duration: 131
+      thumbnail: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1234,w_2200,x_0,y_26/v1562725833/shape/mentalfloss/57386-disney1.jpg?itok=5ZhAOixA"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lion_5: insertmovies_by_genre(
+    value: {
+      genre: "Out of the Vault"
+      year: 2016
+      title: "The Lion King"
+      synopsis: "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne."
+      duration: 131
+      thumbnail: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1234,w_2200,x_0,y_26/v1562725833/shape/mentalfloss/57386-disney1.jpg?itok=5ZhAOixA"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lion_6: insertmovies_by_genre(
+    value: {
+      genre: "Out of the Vault"
+      year: 2016
+      title: "The Lion King"
+      synopsis: "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne."
+      duration: 131
+      thumbnail: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1234,w_2200,x_0,y_26/v1562725833/shape/mentalfloss/57386-disney1.jpg?itok=5ZhAOixA"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lion_7: insertmovies_by_genre(
+    value: {
+      genre: "Out of the Vault"
+      year: 2016
+      title: "The Lion King"
+      synopsis: "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne."
+      duration: 131
+      thumbnail: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1234,w_2200,x_0,y_26/v1562725833/shape/mentalfloss/57386-disney1.jpg?itok=5ZhAOixA"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  lion_8: insertmovies_by_genre(
+    value: {
+      genre: "Out of the Vault"
+      year: 2016
+      title: "The Lion King"
+      synopsis: "As a cub, Simba is forced to leave the Pride Lands after his father Mufasa is murdered by his wicked uncle, Scar. Years later, he returns as a young lion to reclaim his throne."
+      duration: 131
+      thumbnail: "https://images2.minutemediacdn.com/image/upload/c_crop,h_1234,w_2200,x_0,y_26/v1562725833/shape/mentalfloss/57386-disney1.jpg?itok=5ZhAOixA"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

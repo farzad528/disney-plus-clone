@@ -1,0 +1,100 @@
+mutation movies_hits {
+  pirates_1: insertmovies_by_genre(
+    value: {
+      genre: "Hit Movies"
+      year: 2017
+      title: "Pirates of the Caribbean: Salazar's Revenge"
+      synopsis: "To break the curse of Flying Dutchman, Captain Jack Sparrow and Henry Turner embark on a mission to find the Trident of Poseidon. They also try to stop Captain Salazar who intends to rule the seas."
+      duration: 178
+      thumbnail: "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2017%2F05%2Fpirates_of_the_caribbean_dead_men_tell_no_tales_by_mintmovi3-db23j4w.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  pirates_2: insertmovies_by_genre(
+    value: {
+      genre: "Hit Movies"
+      year: 2017
+      title: "Pirates of the Caribbean: Salazar's Revenge"
+      synopsis: "To break the curse of Flying Dutchman, Captain Jack Sparrow and Henry Turner embark on a mission to find the Trident of Poseidon. They also try to stop Captain Salazar who intends to rule the seas."
+      duration: 178
+      thumbnail: "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2017%2F05%2Fpirates_of_the_caribbean_dead_men_tell_no_tales_by_mintmovi3-db23j4w.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  pirates_3: insertmovies_by_genre(
+    value: {
+      genre: "Hit Movies"
+      year: 2017
+      title: "Pirates of the Caribbean: Salazar's Revenge"
+      synopsis: "To break the curse of Flying Dutchman, Captain Jack Sparrow and Henry Turner embark on a mission to find the Trident of Poseidon. They also try to stop Captain Salazar who intends to rule the seas."
+      duration: 178
+      thumbnail: "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fscottmendelson%2Ffiles%2F2017%2F05%2Fpirates_of_the_caribbean_dead_men_tell_no_tales_by_mintmovi3-db23j4w.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  toy_1: insertmovies_by_genre(
+    value: {
+      genre: "Hit Movies"
+      year: 2010
+      title: "Toy Story 3"
+      synopsis: "Before Andy leaves for college, his toys are mistakenly delivered to a day care centre. Woody convinces the other toys that they were not dumped and leads them on an expedition back home."
+      duration: 178
+      thumbnail: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99ECBB7D0C9D7607F14C1306CACF487259FA9400F1E60C397F1BC899B8AD5C2F/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  toy_2: insertmovies_by_genre(
+    value: {
+      genre: "Hit Movies"
+      year: 2010
+      title: "Toy Story 3"
+      synopsis: "Before Andy leaves for college, his toys are mistakenly delivered to a day care centre. Woody convinces the other toys that they were not dumped and leads them on an expedition back home."
+      duration: 178
+      thumbnail: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99ECBB7D0C9D7607F14C1306CACF487259FA9400F1E60C397F1BC899B8AD5C2F/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  toy_3: insertmovies_by_genre(
+    value: {
+      genre: "Hit Movies"
+      year: 2010
+      title: "Toy Story 3"
+      synopsis: "Before Andy leaves for college, his toys are mistakenly delivered to a day care centre. Woody convinces the other toys that they were not dumped and leads them on an expedition back home."
+      duration: 178
+      thumbnail: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99ECBB7D0C9D7607F14C1306CACF487259FA9400F1E60C397F1BC899B8AD5C2F/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  toy_4: insertmovies_by_genre(
+    value: {
+      genre: "Hit Movies"
+      year: 2010
+      title: "Toy Story 3"
+      synopsis: "Before Andy leaves for college, his toys are mistakenly delivered to a day care centre. Woody convinces the other toys that they were not dumped and leads them on an expedition back home."
+      duration: 178
+      thumbnail: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/99ECBB7D0C9D7607F14C1306CACF487259FA9400F1E60C397F1BC899B8AD5C2F/scale?width=1200&aspectRatio=1.78&format=jpeg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

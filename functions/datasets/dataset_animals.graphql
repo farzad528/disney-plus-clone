@@ -1,0 +1,114 @@
+mutation movies_animals {
+  ature_1: insertmovies_by_genre(
+    value: {
+      genre: "Animals and Nature"
+      year: 2016
+      title: "Ature Born in China"
+      synopsis: "Born in China is a 2016 nature documentary film directed by Lu Chuan. "
+      duration: 80
+      thumbnail: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  ature_2: insertmovies_by_genre(
+    value: {
+      genre: "Animals and Nature"
+      year: 2016
+      title: "Ature Born in China"
+      synopsis: "Born in China is a 2016 nature documentary film directed by Lu Chuan. "
+      duration: 80
+      thumbnail: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  ature_3: insertmovies_by_genre(
+    value: {
+      genre: "Animals and Nature"
+      year: 2016
+      title: "Ature Born in China"
+      synopsis: "Born in China is a 2016 nature documentary film directed by Lu Chuan. "
+      duration: 80
+      thumbnail: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  ature_4: insertmovies_by_genre(
+    value: {
+      genre: "Animals and Nature"
+      year: 2016
+      title: "Ature Born in China"
+      synopsis: "Born in China is a 2016 nature documentary film directed by Lu Chuan. "
+      duration: 80
+      thumbnail: "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  drPol_1: insertmovies_by_genre(
+    value: {
+      genre: "Animals and Nature"
+      year: 2016
+      title: "The Incredible Dr. Pol"
+      synopsis: "Dr Jan Pol has been a practicing veterinarian for more than half his life. In 1981 he and his wife, Diane, opened a vet business out of their home, and over the years it has grown to service more than 19,000 clients."
+      duration: 61
+      thumbnail: "https://images.unsplash.com/photo-1596272875729-ed2ff7d6d9c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  drPol_2: insertmovies_by_genre(
+    value: {
+      genre: "Animals and Nature"
+      year: 2016
+      title: "The Incredible Dr. Pol"
+      synopsis: "Dr Jan Pol has been a practicing veterinarian for more than half his life. In 1981 he and his wife, Diane, opened a vet business out of their home, and over the years it has grown to service more than 19,000 clients."
+      duration: 61
+      thumbnail: "https://images.unsplash.com/photo-1596272875729-ed2ff7d6d9c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  drPol_3: insertmovies_by_genre(
+    value: {
+      genre: "Animals and Nature"
+      year: 2016
+      title: "The Incredible Dr. Pol"
+      synopsis: "Dr Jan Pol has been a practicing veterinarian for more than half his life. In 1981 he and his wife, Diane, opened a vet business out of their home, and over the years it has grown to service more than 19,000 clients."
+      duration: 61
+      thumbnail: "https://images.unsplash.com/photo-1596272875729-ed2ff7d6d9c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  drPol_4: insertmovies_by_genre(
+    value: {
+      genre: "Animals and Nature"
+      year: 2016
+      title: "The Incredible Dr. Pol"
+      synopsis: "Dr Jan Pol has been a practicing veterinarian for more than half his life. In 1981 he and his wife, Diane, opened a vet business out of their home, and over the years it has grown to service more than 19,000 clients."
+      duration: 61
+      thumbnail: "https://images.unsplash.com/photo-1596272875729-ed2ff7d6d9c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

@@ -1,0 +1,128 @@
+mutation movies_junior {
+  clubhouse_1: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2006
+      title: "Micky Mouse Clubhouse"
+      synopsis: "Mickey, Minnie, Pluto, Goofy, Daisy, Donald and many other clubhouse friends go on educational adventures and impart important lessons in a fun way."
+      duration: 180
+      thumbnail: "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/disney-740000016540_S02-Full-Image_GalleryBackground-en-GB-1483993815121._SX1080_.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  clubhouse_2: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2006
+      title: "Micky Mouse Clubhouse"
+      synopsis: "Mickey, Minnie, Pluto, Goofy, Daisy, Donald and many other clubhouse friends go on educational adventures and impart important lessons in a fun way."
+      duration: 180
+      thumbnail: "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/disney-740000016540_S02-Full-Image_GalleryBackground-en-GB-1483993815121._SX1080_.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  clubhouse_3: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2006
+      title: "Micky Mouse Clubhouse"
+      synopsis: "Mickey, Minnie, Pluto, Goofy, Daisy, Donald and many other clubhouse friends go on educational adventures and impart important lessons in a fun way."
+      duration: 180
+      thumbnail: "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/disney-740000016540_S02-Full-Image_GalleryBackground-en-GB-1483993815121._SX1080_.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  clubhouse_4: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2006
+      title: "Micky Mouse Clubhouse"
+      synopsis: "Mickey, Minnie, Pluto, Goofy, Daisy, Donald and many other clubhouse friends go on educational adventures and impart important lessons in a fun way."
+      duration: 180
+      thumbnail: "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GB/disney-740000016540_S02-Full-Image_GalleryBackground-en-GB-1483993815121._SX1080_.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  elena_1: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2016
+      title: "Elena of Avalor"
+      synopsis: "Princess Elena is on a journey that began years earlier when evil sorceress Shuriki took her parents and kingdom from her."
+      duration: 180
+      thumbnail: "https://www.awn.com/sites/default/files/styles/inline_wide/public/image/featured/1032279-disney-channel-orders-third-season-elena-avalor.jpg?itok=6sh3tAO3"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  elena_2: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2016
+      title: "Elena of Avalor"
+      synopsis: "Princess Elena is on a journey that began years earlier when evil sorceress Shuriki took her parents and kingdom from her."
+      duration: 180
+      thumbnail: "https://www.awn.com/sites/default/files/styles/inline_wide/public/image/featured/1032279-disney-channel-orders-third-season-elena-avalor.jpg?itok=6sh3tAO3"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  elena_3: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2016
+      title: "Elena of Avalor"
+      synopsis: "Princess Elena is on a journey that began years earlier when evil sorceress Shuriki took her parents and kingdom from her."
+      duration: 180
+      thumbnail: "https://www.awn.com/sites/default/files/styles/inline_wide/public/image/featured/1032279-disney-channel-orders-third-season-elena-avalor.jpg?itok=6sh3tAO3"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  elena_4: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2016
+      title: "Elena of Avalor"
+      synopsis: "Princess Elena is on a journey that began years earlier when evil sorceress Shuriki took her parents and kingdom from her."
+      duration: 180
+      thumbnail: "https://www.awn.com/sites/default/files/styles/inline_wide/public/image/featured/1032279-disney-channel-orders-third-season-elena-avalor.jpg?itok=6sh3tAO3"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  elena_5: insertmovies_by_genre(
+    value: {
+      genre: "Disney Junior Series"
+      year: 2016
+      title: "Elena of Avalor"
+      synopsis: "Princess Elena is on a journey that began years earlier when evil sorceress Shuriki took her parents and kingdom from her."
+      duration: 180
+      thumbnail: "https://www.awn.com/sites/default/files/styles/inline_wide/public/image/featured/1032279-disney-channel-orders-third-season-elena-avalor.jpg?itok=6sh3tAO3"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

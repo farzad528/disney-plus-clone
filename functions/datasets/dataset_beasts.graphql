@@ -1,0 +1,156 @@
+mutation movies_beasts {
+  beauty_1: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Beauty and Beast"
+      synopsis: "When Belles inventor father goes missing, she tracks him down to a castle owned by a fearsome beast. She agrees to take her fathers place as hostage and soon begins to feel affectionately towards the Beast."
+      duration: 110
+      thumbnail: "https://cdn.onebauer.media/one/empire-tmdb/films/10020/images/q8OEC91NiJOpghWI9hXtC27nFX0.jpg?format=jpg&quality=80&width=1800&ratio=16-9&resize=aspectfill"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  beauty_2: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Beauty and Beast"
+      synopsis: "When Belles inventor father goes missing, she tracks him down to a castle owned by a fearsome beast. She agrees to take her fathers place as hostage and soon begins to feel affectionately towards the Beast."
+      duration: 110
+      thumbnail: "https://cdn.onebauer.media/one/empire-tmdb/films/10020/images/q8OEC91NiJOpghWI9hXtC27nFX0.jpg?format=jpg&quality=80&width=1800&ratio=16-9&resize=aspectfill"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  beauty_3: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Beauty and Beast"
+      synopsis: "When Belles inventor father goes missing, she tracks him down to a castle owned by a fearsome beast. She agrees to take her fathers place as hostage and soon begins to feel affectionately towards the Beast."
+      duration: 110
+      thumbnail: "https://cdn.onebauer.media/one/empire-tmdb/films/10020/images/q8OEC91NiJOpghWI9hXtC27nFX0.jpg?format=jpg&quality=80&width=1800&ratio=16-9&resize=aspectfill"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  beauty_4: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Beauty and Beast"
+      synopsis: "When Belles inventor father goes missing, she tracks him down to a castle owned by a fearsome beast. She agrees to take her fathers place as hostage and soon begins to feel affectionately towards the Beast."
+      duration: 110
+      thumbnail: "https://cdn.onebauer.media/one/empire-tmdb/films/10020/images/q8OEC91NiJOpghWI9hXtC27nFX0.jpg?format=jpg&quality=80&width=1800&ratio=16-9&resize=aspectfill"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  beauty_5: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Beauty and Beast"
+      synopsis: "When Belles inventor father goes missing, she tracks him down to a castle owned by a fearsome beast. She agrees to take her fathers place as hostage and soon begins to feel affectionately towards the Beast."
+      duration: 110
+      thumbnail: "https://cdn.onebauer.media/one/empire-tmdb/films/10020/images/q8OEC91NiJOpghWI9hXtC27nFX0.jpg?format=jpg&quality=80&width=1800&ratio=16-9&resize=aspectfill"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  monsters_1: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Monsters Inc"
+      synopsis: "In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world."
+      duration: 110
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/OK9RdhYXF4nLD_trm6Ecky8gGcw=/0x0:1800x973/920x613/filters:focal(756x343:1044x631):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63380278/Mike_Sulley_Boo_monsters_inc.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  monsters_2: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Monsters Inc"
+      synopsis: "In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world."
+      duration: 110
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/OK9RdhYXF4nLD_trm6Ecky8gGcw=/0x0:1800x973/920x613/filters:focal(756x343:1044x631):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63380278/Mike_Sulley_Boo_monsters_inc.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  monsters_3: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Monsters Inc"
+      synopsis: "In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world."
+      duration: 110
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/OK9RdhYXF4nLD_trm6Ecky8gGcw=/0x0:1800x973/920x613/filters:focal(756x343:1044x631):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63380278/Mike_Sulley_Boo_monsters_inc.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  monsters_4: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Monsters Inc"
+      synopsis: "In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world."
+      duration: 110
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/OK9RdhYXF4nLD_trm6Ecky8gGcw=/0x0:1800x973/920x613/filters:focal(756x343:1044x631):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63380278/Mike_Sulley_Boo_monsters_inc.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  monsters_5: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Monsters Inc"
+      synopsis: "In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world."
+      duration: 110
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/OK9RdhYXF4nLD_trm6Ecky8gGcw=/0x0:1800x973/920x613/filters:focal(756x343:1044x631):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63380278/Mike_Sulley_Boo_monsters_inc.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  monsters_6: insertmovies_by_genre(
+    value: {
+      genre: "Beasts and Monsters"
+      year: 2017
+      title: "Monsters Inc"
+      synopsis: "In Monstropolis, best friends Sulley and Mike are the top scarers working at the Monsters, Inc. However, their lives are hugely disrupted when a human girl enters their world."
+      duration: 110
+      thumbnail: "https://cdn.vox-cdn.com/thumbor/OK9RdhYXF4nLD_trm6Ecky8gGcw=/0x0:1800x973/920x613/filters:focal(756x343:1044x631):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63380278/Mike_Sulley_Boo_monsters_inc.0.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

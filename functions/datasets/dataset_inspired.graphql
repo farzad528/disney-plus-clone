@@ -1,0 +1,114 @@
+mutation movies_inspirations {
+  katwe_1: insertmovies_by_genre(
+    value: {
+      genre: "Inspired by True Stories"
+      year: 2016
+      title: "Queen of Katwe"
+      synopsis: "Phiona's life changes after she meets Robert Katende, who teaches her to play chess."
+      duration: 100
+      thumbnail: "https://media.wired.com/photos/5926b682cefba457b079ae7c/master/pass/QK-08053.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  katwe_2: insertmovies_by_genre(
+    value: {
+      genre: "Inspired by True Stories"
+      year: 2016
+      title: "Queen of Katwe"
+      synopsis: "Phiona's life changes after she meets Robert Katende, who teaches her to play chess."
+      duration: 100
+      thumbnail: "https://media.wired.com/photos/5926b682cefba457b079ae7c/master/pass/QK-08053.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  katwe_3: insertmovies_by_genre(
+    value: {
+      genre: "Inspired by True Stories"
+      year: 2016
+      title: "Queen of Katwe"
+      synopsis: "Phiona's life changes after she meets Robert Katende, who teaches her to play chess."
+      duration: 100
+      thumbnail: "https://media.wired.com/photos/5926b682cefba457b079ae7c/master/pass/QK-08053.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  katwe_4: insertmovies_by_genre(
+    value: {
+      genre: "Inspired by True Stories"
+      year: 2016
+      title: "Queen of Katwe"
+      synopsis: "Phiona's life changes after she meets Robert Katende, who teaches her to play chess."
+      duration: 100
+      thumbnail: "https://media.wired.com/photos/5926b682cefba457b079ae7c/master/pass/QK-08053.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  katwe_5: insertmovies_by_genre(
+    value: {
+      genre: "Inspired by True Stories"
+      year: 2016
+      title: "Queen of Katwe"
+      synopsis: "Phiona's life changes after she meets Robert Katende, who teaches her to play chess."
+      duration: 100
+      thumbnail: "https://media.wired.com/photos/5926b682cefba457b079ae7c/master/pass/QK-08053.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  katwe_6: insertmovies_by_genre(
+    value: {
+      genre: "Inspired by True Stories"
+      year: 2016
+      title: "Queen of Katwe"
+      synopsis: "Phiona's life changes after she meets Robert Katende, who teaches her to play chess."
+      duration: 100
+      thumbnail: "https://media.wired.com/photos/5926b682cefba457b079ae7c/master/pass/QK-08053.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  katwe_7: insertmovies_by_genre(
+    value: {
+      genre: "Inspired by True Stories"
+      year: 2016
+      title: "Queen of Katwe"
+      synopsis: "Phiona's life changes after she meets Robert Katende, who teaches her to play chess."
+      duration: 100
+      thumbnail: "https://media.wired.com/photos/5926b682cefba457b079ae7c/master/pass/QK-08053.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  katwe_8: insertmovies_by_genre(
+    value: {
+      genre: "Inspired by True Stories"
+      year: 2016
+      title: "Queen of Katwe"
+      synopsis: "Phiona's life changes after she meets Robert Katende, who teaches her to play chess."
+      duration: 100
+      thumbnail: "https://media.wired.com/photos/5926b682cefba457b079ae7c/master/pass/QK-08053.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

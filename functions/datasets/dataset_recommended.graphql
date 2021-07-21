@@ -1,0 +1,114 @@
+mutation movies_recommended {
+  tramp_1: insertmovies_by_genre(
+    value: {
+      genre: "Recommended For You"
+      year: 2019
+      title: "Lady and the Tramp"
+      synopsis: "Lady, a female dog, feels neglected when Jim and Darling get a baby in the house."
+      duration: 112
+      thumbnail: "https://d.newsweek.com/en/full/1544255/lady-tramp-2019.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  tramp_2: insertmovies_by_genre(
+    value: {
+      genre: "Recommended For You"
+      year: 2019
+      title: "Lady and the Tramp"
+      synopsis: "Lady, a female dog, feels neglected when Jim and Darling get a baby in the house."
+      duration: 112
+      thumbnail: "https://d.newsweek.com/en/full/1544255/lady-tramp-2019.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  tramp_3: insertmovies_by_genre(
+    value: {
+      genre: "Recommended For You"
+      year: 2019
+      title: "Lady and the Tramp"
+      synopsis: "Lady, a female dog, feels neglected when Jim and Darling get a baby in the house."
+      duration: 112
+      thumbnail: "https://d.newsweek.com/en/full/1544255/lady-tramp-2019.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hercules_1: insertmovies_by_genre(
+    value: {
+      genre: "Recommended For You"
+      year: 1997
+      title: "Hercules"
+      synopsis: "Hercules, son of the Greek god, Zeus, is turned into a half-god, half-mortal by the evil Hades. "
+      duration: 112
+      thumbnail: "https://static2.srcdn.com/wordpress/wp-content/uploads/2020/06/Hercules-Feature.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hercules_2: insertmovies_by_genre(
+    value: {
+      genre: "Recommended For You"
+      year: 1997
+      title: "Hercules"
+      synopsis: "Hercules, son of the Greek god, Zeus, is turned into a half-god, half-mortal by the evil Hades. "
+      duration: 112
+      thumbnail: "https://static2.srcdn.com/wordpress/wp-content/uploads/2020/06/Hercules-Feature.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hercules_3: insertmovies_by_genre(
+    value: {
+      genre: "Recommended For You"
+      year: 1997
+      title: "Hercules"
+      synopsis: "Hercules, son of the Greek god, Zeus, is turned into a half-god, half-mortal by the evil Hades. "
+      duration: 112
+      thumbnail: "https://static2.srcdn.com/wordpress/wp-content/uploads/2020/06/Hercules-Feature.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hercules_4: insertmovies_by_genre(
+    value: {
+      genre: "Recommended For You"
+      year: 1997
+      title: "Hercules"
+      synopsis: "Hercules, son of the Greek god, Zeus, is turned into a half-god, half-mortal by the evil Hades. "
+      duration: 112
+      thumbnail: "https://static2.srcdn.com/wordpress/wp-content/uploads/2020/06/Hercules-Feature.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  hercules_5: insertmovies_by_genre(
+    value: {
+      genre: "Recommended For You"
+      year: 1997
+      title: "Hercules"
+      synopsis: "Hercules, son of the Greek god, Zeus, is turned into a half-god, half-mortal by the evil Hades. "
+      duration: 112
+      thumbnail: "https://static2.srcdn.com/wordpress/wp-content/uploads/2020/06/Hercules-Feature.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

@@ -1,0 +1,156 @@
+mutation movies_mickey {
+  steamboat_1: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1928
+      title: "Steamboat Willie"
+      synopsis: "Mickey Mouse steers a steamboat down a river. He entertains his new passenger, Minnie, by playing music out of the menagerie on the boat. "
+      duration: 8
+      thumbnail: "https://images.unsplash.com/photo-1616776212814-fab73656dd8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  steamboat_2: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1928
+      title: "Steamboat Willie"
+      synopsis: "Mickey Mouse steers a steamboat down a river. He entertains his new passenger, Minnie, by playing music out of the menagerie on the boat. "
+      duration: 8
+      thumbnail: "https://images.unsplash.com/photo-1616776212814-fab73656dd8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  steamboat_3: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1928
+      title: "Steamboat Willie"
+      synopsis: "Mickey Mouse steers a steamboat down a river. He entertains his new passenger, Minnie, by playing music out of the menagerie on the boat. "
+      duration: 8
+      thumbnail: "https://images.unsplash.com/photo-1616776212814-fab73656dd8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  steamboat_4: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1928
+      title: "Steamboat Willie"
+      synopsis: "Mickey Mouse steers a steamboat down a river. He entertains his new passenger, Minnie, by playing music out of the menagerie on the boat. "
+      duration: 8
+      thumbnail: "https://images.unsplash.com/photo-1616776212814-fab73656dd8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  steamboat_5: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1928
+      title: "Steamboat Willie"
+      synopsis: "Mickey Mouse steers a steamboat down a river. He entertains his new passenger, Minnie, by playing music out of the menagerie on the boat. "
+      duration: 8
+      thumbnail: "https://images.unsplash.com/photo-1616776212814-fab73656dd8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rival_1: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1936
+      title: "Mickey's Rival"
+      synopsis: "Mickey's rival, Mortimer, strives for Minnie's affections on an afternoon outing; as he woos Minnie, he plays practical jokes on Mickey."
+      duration: 13
+      thumbnail: "https://images.unsplash.com/photo-1585578030055-c6e244eb52c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rival_1: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1936
+      title: "Mickey's Rival"
+      synopsis: "Mickey's rival, Mortimer, strives for Minnie's affections on an afternoon outing; as he woos Minnie, he plays practical jokes on Mickey."
+      duration: 13
+      thumbnail: "https://images.unsplash.com/photo-1585578030055-c6e244eb52c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rival_2: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1936
+      title: "Mickey's Rival"
+      synopsis: "Mickey's rival, Mortimer, strives for Minnie's affections on an afternoon outing; as he woos Minnie, he plays practical jokes on Mickey."
+      duration: 13
+      thumbnail: "https://images.unsplash.com/photo-1585578030055-c6e244eb52c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rival_3: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1936
+      title: "Mickey's Rival"
+      synopsis: "Mickey's rival, Mortimer, strives for Minnie's affections on an afternoon outing; as he woos Minnie, he plays practical jokes on Mickey."
+      duration: 13
+      thumbnail: "https://images.unsplash.com/photo-1585578030055-c6e244eb52c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rival_4: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1936
+      title: "Mickey's Rival"
+      synopsis: "Mickey's rival, Mortimer, strives for Minnie's affections on an afternoon outing; as he woos Minnie, he plays practical jokes on Mickey."
+      duration: 13
+      thumbnail: "https://images.unsplash.com/photo-1585578030055-c6e244eb52c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rival_5: insertmovies_by_genre(
+    value: {
+      genre: "Mickey Mouse Through The Years"
+      year: 1936
+      title: "Mickey's Rival"
+      synopsis: "Mickey's rival, Mortimer, strives for Minnie's affections on an afternoon outing; as he woos Minnie, he plays practical jokes on Mickey."
+      duration: 13
+      thumbnail: "https://images.unsplash.com/photo-1585578030055-c6e244eb52c7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

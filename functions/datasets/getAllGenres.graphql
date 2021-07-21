@@ -1,0 +1,7 @@
+query getAllGenres {
+  reference_list(value: {label: "genre"}) {
+    values {
+      value
+    }
+  }
+}

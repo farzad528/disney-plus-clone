@@ -1,0 +1,142 @@
+mutation movies_action {
+  mandalorian_1: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2012
+      title: "Mandalorian"
+      synopsis: "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+      duration: 123
+      thumbnail: "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  mandalorian_2: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2012
+      title: "Mandalorian"
+      synopsis: "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+      duration: 123
+      thumbnail: "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  mandalorian_3: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2012
+      title: "Mandalorian"
+      synopsis: "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+      duration: 123
+      thumbnail: "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1950&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  avatar_1: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2008
+      title: "Avatar"
+      synopsis: "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. "
+      duration: 160
+      thumbnail: "https://images.unsplash.com/photo-1485795959911-ea5ebf41b6ae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1060&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  avatar_2: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2008
+      title: "Avatar"
+      synopsis: "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. "
+      duration: 160
+      thumbnail: "https://images.unsplash.com/photo-1485795959911-ea5ebf41b6ae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1060&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  avatar_3: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2008
+      title: "Avatar"
+      synopsis: "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. "
+      duration: 160
+      thumbnail: "https://images.unsplash.com/photo-1485795959911-ea5ebf41b6ae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1060&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  starWarsTheForceAwakens_1: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2000
+      title: "Star Wars: The Force Awakens"
+      synopsis: "A new order threatens to destroy the New Republic. Finn, Rey and Poe, backed by the Resistance and the Republic, must find a way to stop them and find Luke, the last surviving Jedi."
+      duration: 189
+      thumbnail: "https://images.unsplash.com/photo-1578374173713-32f6ae6f3971?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  starWarsTheForceAwakens_2: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2000
+      title: "Star Wars: The Force Awakens"
+      synopsis: "A new order threatens to destroy the New Republic. Finn, Rey and Poe, backed by the Resistance and the Republic, must find a way to stop them and find Luke, the last surviving Jedi."
+      duration: 189
+      thumbnail: "https://images.unsplash.com/photo-1578374173713-32f6ae6f3971?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  starWarsTheForceAwakens_3: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2000
+      title: "Star Wars: The Force Awakens"
+      synopsis: "A new order threatens to destroy the New Republic. Finn, Rey and Poe, backed by the Resistance and the Republic, must find a way to stop them and find Luke, the last surviving Jedi."
+      duration: 189
+      thumbnail: "https://images.unsplash.com/photo-1578374173713-32f6ae6f3971?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  starWarsTheForceAwakens_4: insertmovies_by_genre(
+    value: {
+      genre: "Action and Adventure"
+      year: 2000
+      title: "Star Wars: The Force Awakens"
+      synopsis: "A new order threatens to destroy the New Republic. Finn, Rey and Poe, backed by the Resistance and the Republic, must find a way to stop them and find Luke, the last surviving Jedi."
+      duration: 189
+      thumbnail: "https://images.unsplash.com/photo-1578374173713-32f6ae6f3971?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

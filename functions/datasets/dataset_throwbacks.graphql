@@ -1,0 +1,170 @@
+mutation movies_beasts {
+  montana_1: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "Hannah Montana The Movie"
+      synopsis: "When Hannah Montana's persona begins to overwhelm Miley's actual existence, her father advises her to take a break."
+      duration: 110
+      thumbnail: "https://images.unsplash.com/photo-1521337706264-a414f153a5ed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1008&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  montana_2: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "Hannah Montana The Movie"
+      synopsis: "When Hannah Montana's persona begins to overwhelm Miley's actual existence, her father advises her to take a break."
+      duration: 110
+      thumbnail: "https://images.unsplash.com/photo-1521337706264-a414f153a5ed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1008&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  montana_3: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "Hannah Montana The Movie"
+      synopsis: "When Hannah Montana's persona begins to overwhelm Miley's actual existence, her father advises her to take a break."
+      duration: 110
+      thumbnail: "https://images.unsplash.com/photo-1521337706264-a414f153a5ed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1008&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  montana_4: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "Hannah Montana The Movie"
+      synopsis: "When Hannah Montana's persona begins to overwhelm Miley's actual existence, her father advises her to take a break."
+      duration: 110
+      thumbnail: "https://images.unsplash.com/photo-1521337706264-a414f153a5ed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1008&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  montana_5: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "Hannah Montana The Movie"
+      synopsis: "When Hannah Montana's persona begins to overwhelm Miley's actual existence, her father advises her to take a break."
+      duration: 110
+      thumbnail: "https://images.unsplash.com/photo-1521337706264-a414f153a5ed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1008&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  montana_6: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "Hannah Montana The Movie"
+      synopsis: "When Hannah Montana's persona begins to overwhelm Miley's actual existence, her father advises her to take a break."
+      duration: 110
+      thumbnail: "https://images.unsplash.com/photo-1521337706264-a414f153a5ed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1008&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  raven_1: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "That's so Raven"
+      synopsis: "Raven Baxter, an offbeat teenager, can foresee glimpses of the future. "
+      duration: 90
+      thumbnail: "https://images.unsplash.com/photo-1577896849786-738ed6c78bd3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBmYW1pbHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  raven_2: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "That's so Raven"
+      synopsis: "Raven Baxter, an offbeat teenager, can foresee glimpses of the future. "
+      duration: 90
+      thumbnail: "https://images.unsplash.com/photo-1577896849786-738ed6c78bd3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBmYW1pbHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  raven_3: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "That's so Raven"
+      synopsis: "Raven Baxter, an offbeat teenager, can foresee glimpses of the future. "
+      duration: 90
+      thumbnail: "https://images.unsplash.com/photo-1577896849786-738ed6c78bd3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBmYW1pbHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  raven_4: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "That's so Raven"
+      synopsis: "Raven Baxter, an offbeat teenager, can foresee glimpses of the future. "
+      duration: 90
+      thumbnail: "https://images.unsplash.com/photo-1577896849786-738ed6c78bd3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBmYW1pbHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  raven_5: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "That's so Raven"
+      synopsis: "Raven Baxter, an offbeat teenager, can foresee glimpses of the future. "
+      duration: 90
+      thumbnail: "https://images.unsplash.com/photo-1577896849786-738ed6c78bd3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBmYW1pbHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  raven_6: insertmovies_by_genre(
+    value: {
+      genre: "Throwbacks"
+      year: 2009
+      title: "That's so Raven"
+      synopsis: "Raven Baxter, an offbeat teenager, can foresee glimpses of the future. "
+      duration: 90
+      thumbnail: "https://images.unsplash.com/photo-1577896849786-738ed6c78bd3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBmYW1pbHl8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

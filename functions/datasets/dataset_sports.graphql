@@ -1,0 +1,128 @@
+mutation movies_sports {
+  steamboat_1: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 1993
+      title: "The Sandlot"
+      synopsis: "The Sandlot is a 1993 American coming-of-age sports comedy film co-written, directed, and narrated by David Mickey Evans."
+      duration: 120
+      thumbnail: "https://images.unsplash.com/photo-1528291954423-c0c71c12baeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1001&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  steamboat_2: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 1993
+      title: "The Sandlot"
+      synopsis: "The Sandlot is a 1993 American coming-of-age sports comedy film co-written, directed, and narrated by David Mickey Evans."
+      duration: 120
+      thumbnail: "https://images.unsplash.com/photo-1528291954423-c0c71c12baeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1001&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  steamboat_3: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 1993
+      title: "The Sandlot"
+      synopsis: "The Sandlot is a 1993 American coming-of-age sports comedy film co-written, directed, and narrated by David Mickey Evans."
+      duration: 120
+      thumbnail: "https://images.unsplash.com/photo-1528291954423-c0c71c12baeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1001&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rememberTitans_1: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 2000
+      title: "Remember the Titans"
+      synopsis: "Herman Boone, an African-American, is appointed as the new coach of a high school team. The team is playing as a racially-integrated team for the first time."
+      duration: 124
+      thumbnail: "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=926&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rememberTitans_2: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 2000
+      title: "Remember the Titans"
+      synopsis: "Herman Boone, an African-American, is appointed as the new coach of a high school team. The team is playing as a racially-integrated team for the first time."
+      duration: 124
+      thumbnail: "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=926&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rememberTitans_3: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 2000
+      title: "Remember the Titans"
+      synopsis: "Herman Boone, an African-American, is appointed as the new coach of a high school team. The team is playing as a racially-integrated team for the first time."
+      duration: 124
+      thumbnail: "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=926&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rememberTitans_4: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 2000
+      title: "Remember the Titans"
+      synopsis: "Herman Boone, an African-American, is appointed as the new coach of a high school team. The team is playing as a racially-integrated team for the first time."
+      duration: 124
+      thumbnail: "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=926&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rememberTitans_5: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 2000
+      title: "Remember the Titans"
+      synopsis: "Herman Boone, an African-American, is appointed as the new coach of a high school team. The team is playing as a racially-integrated team for the first time."
+      duration: 124
+      thumbnail: "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=926&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  rememberTitans_6: insertmovies_by_genre(
+    value: {
+      genre: "Feel-Good Sports Movies"
+      year: 2000
+      title: "Remember the Titans"
+      synopsis: "Herman Boone, an African-American, is appointed as the new coach of a high school team. The team is playing as a racially-integrated team for the first time."
+      duration: 124
+      thumbnail: "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=926&q=80"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}

@@ -1,0 +1,100 @@
+mutation movies_ultra {
+  frozen_1: insertmovies_by_genre(
+    value: {
+      genre: "Ultra HD and HDR"
+      year: 2013
+      title: "Frozen"
+      synopsis: "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice."
+      duration: 61
+      thumbnail: "https://cherwell.org/wp-content/uploads/2020/01/frozen-two-still-sparkle.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  frozen_2: insertmovies_by_genre(
+    value: {
+      genre: "Ultra HD and HDR"
+      year: 2013
+      title: "Frozen"
+      synopsis: "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice."
+      duration: 61
+      thumbnail: "https://cherwell.org/wp-content/uploads/2020/01/frozen-two-still-sparkle.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  frozen_3: insertmovies_by_genre(
+    value: {
+      genre: "Ultra HD and HDR"
+      year: 2013
+      title: "Frozen"
+      synopsis: "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice."
+      duration: 61
+      thumbnail: "https://cherwell.org/wp-content/uploads/2020/01/frozen-two-still-sparkle.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  frozen_4: insertmovies_by_genre(
+    value: {
+      genre: "Ultra HD and HDR"
+      year: 2013
+      title: "Frozen"
+      synopsis: "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice."
+      duration: 61
+      thumbnail: "https://cherwell.org/wp-content/uploads/2020/01/frozen-two-still-sparkle.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  frozen_5: insertmovies_by_genre(
+    value: {
+      genre: "Ultra HD and HDR"
+      year: 2013
+      title: "Frozen"
+      synopsis: "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice."
+      duration: 61
+      thumbnail: "https://cherwell.org/wp-content/uploads/2020/01/frozen-two-still-sparkle.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  frozen_6: insertmovies_by_genre(
+    value: {
+      genre: "Ultra HD and HDR"
+      year: 2013
+      title: "Frozen"
+      synopsis: "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice."
+      duration: 61
+      thumbnail: "https://cherwell.org/wp-content/uploads/2020/01/frozen-two-still-sparkle.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+  frozen_7: insertmovies_by_genre(
+    value: {
+      genre: "Ultra HD and HDR"
+      year: 2013
+      title: "Frozen"
+      synopsis: "Anna sets out on a journey with an iceman, Kristoff, and his reindeer, Sven, in order to find her sister, Elsa, who has the power to convert any object or person into ice."
+      duration: 61
+      thumbnail: "https://cherwell.org/wp-content/uploads/2020/01/frozen-two-still-sparkle.jpg"
+    }
+  ) {
+    value {
+      title
+    }
+  }
+}
